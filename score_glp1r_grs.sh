@@ -15,11 +15,11 @@ set -euo pipefail
 
 # =============================================================================
 # 01 — INPUT / OUTPUT PATHS
-# Edit these to match your environment
+# Edit to match your environment
 # =============================================================================
 
 VCF="chr6.vcf.gz"                    # Joint-called WGS chr6 VCF (hg38)
-SCORE_FILE="glp1r_grs_score.txt"     # Score file (provided in this repo)
+SCORE_FILE="glp1r_grs_score.txt"     # Score file
 OUT_PREFIX="glp1r_grs"               # Output prefix for PLINK2 files
 
 # =============================================================================
