@@ -29,6 +29,7 @@ This score was used as a pharmacogenetic stratification instrument in:
 
 ## Repository Contents
 |  |  |
+|---|---|
 | glp1r_grs_score.txt | score file comprising the genetic risk instrument |
 | score_glp1r_grs.sh | PLINK2 bash script used to score whole genome sequencing .vcf files against score file |
 | GLP1R_GRS_motor_ANCOVA.R | R script used to execute baseline-adjusted ANCOVA regression model |
