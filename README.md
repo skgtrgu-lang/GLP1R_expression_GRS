@@ -15,6 +15,7 @@ This score was used as a pharmacogenetic stratification instrument in:
 > Gurney R et al. Genetically proxied GLP1R expression does not predict exenatide response in the Exenatide-PD3 trial. Brain, 2026.
 ---
 ## Score Description
+| | |
 |---|---|
 | Gene | GLP1R (chromosome 6) |
 | Variants | 15 cis-eQTL variants |
@@ -27,6 +28,7 @@ This score was used as a pharmacogenetic stratification instrument in:
 ---
 
 ## Repository Contents
+| | |
 |---|---|
 | glp1r_grs_score.txt | score file comprising the genetic risk instrument |
 | score_glp1r_grs.sh | PLINK2 bash script used to score whole genome sequencing .vcf files against score file |
