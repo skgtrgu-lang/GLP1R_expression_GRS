@@ -6,14 +6,10 @@ Code used to generate GLP1R expression GRS scores using PLINK2
 ---
 ## Overview
 
-This repository contains the score file and analysis scripts used to generate a
-**GLP1R expression genetic risk score (GRS)** in participants from the
-Exenatide-PD3 randomised controlled trial.
+This repository contains the score file and analysis scripts used to generate a **GLP1R expression genetic risk score (GRS)** in participants from the Exenatide-PD3 randomised controlled trial.
 
-The GRS is a weighted sum of 15 cis-eQTL variants associated with GLP1R gene
-expression in whole blood (GTEx v8, European ancestry), as reported by
-Triozzi et al. A higher score indicates higher genetically predicted GLP1R
-expression.
+The GRS is a weighted sum of 15 cis-eQTL variants associated with GLP1R gene expression in whole blood (GTEx v8, European ancestry), as reported in Triozzi JL, Yu Z, Giri A, et al. GLP1R Gene Expression and Kidney Disease Progression. JAMA Netw Open. 2024;7(10):e2440286. doi:10.1001/jamanetworkopen.2024.40286 
+A higher score indicates higher genetically predicted GLP1R expression.
 
 This score was used as a pharmacogenetic stratification instrument in:
 > Gurney R et al. Genetically proxied GLP1R expression does not predict exenatide response in the Exenatide-PD3 trial. Brain, 2026.
